@@ -1,7 +1,5 @@
 # js-yang-slide
-```
 js 判断手指滑动方向
-```
 
 vue 使用 main.js
 ```
